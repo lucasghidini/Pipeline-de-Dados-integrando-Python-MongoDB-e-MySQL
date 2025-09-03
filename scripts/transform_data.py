@@ -70,3 +70,5 @@ if __name__ == '__main__':
     df_produtos = create_dataframe(lst_produtos)
     format_date(df_produtos)
     save_csv(df_produtos, r'C:\Users\Lucas\Desktop\Alura\Trilha data science\MongoDB, Python\data\vendas_2021.csv')
+
+    cliente.close()
