@@ -13,7 +13,7 @@ Após salvar os dados no banco de dados, usei o Python e suas bibliotecas para t
 Depois de tratar os dados, decidi usar o MySQL para salvá-los de forma tabular, facilitando ainda mais a visualização e utilização dos dados.
 
 ## Fluxo do Projeto
-
+<img width="2038" height="825" alt="Image" src="https://github.com/user-attachments/assets/e9e68197-c026-48a8-8967-6789ba3dcf6a" />
 
 ## Como execultar o projeto
 ### 1. Pré-requisitos
